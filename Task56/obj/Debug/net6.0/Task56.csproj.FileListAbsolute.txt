@@ -1,0 +1,15 @@
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\bin\Debug\net6.0\Task56.exe
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\bin\Debug\net6.0\Task56.deps.json
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\bin\Debug\net6.0\Task56.dll
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\bin\Debug\net6.0\Task56.pdb
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.dll
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\refint\Task56.dll
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.pdb
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+E:\Тестировщик\Домашние задания\2022.12.13-HWork\Task56\obj\Debug\net6.0\ref\Task56.dll
